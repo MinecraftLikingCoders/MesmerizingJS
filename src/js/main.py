@@ -1,2 +1,0 @@
-import pgzero
-import pygame
