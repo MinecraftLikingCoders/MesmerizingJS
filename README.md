@@ -1,1 +1,1 @@
-# JavaScriptGame
+# MesmerizingJS
